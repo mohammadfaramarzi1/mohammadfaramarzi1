@@ -1,4 +1,4 @@
-## Hello .👋 I'm Mohammad Faramarzi. Front-End Developer❤️
+## Hello .👋 `I'm Mohammad Faramarzi`. `Front-End Developer❤️`
 
 ## My Activity Status
 

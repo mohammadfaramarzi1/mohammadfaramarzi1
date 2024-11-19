@@ -33,7 +33,4 @@
   <a href="https://instagram.com/_mofficail1/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://telegram.com/faramarzi_dev" width="48px" height="48px">
-    <img src="https://github.com/mohammadfaramarzi1/mohammadfaramarzi1/blob/main/telegram.png?raw=true" />
-  </a>
 </p>

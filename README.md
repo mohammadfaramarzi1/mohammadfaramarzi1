@@ -24,7 +24,7 @@
 </p>
 
 
-<h2>📞Contact Me </h2>
+<h2>📞Socials </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammadfaramarzi/">

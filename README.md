@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Hello , `I'm Mohammad Faramarzi`, `Front-End Developer❤️`
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Hello , `I'm Mohammad Faramarzi`, `Front-End Developer❤️`
 ## 👨‍💻 About Me
 - ### 🎓 Student at Eslamshahr University
 - ### 📅 20 Years Old

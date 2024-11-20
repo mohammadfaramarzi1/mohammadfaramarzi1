@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadfaramarzi1&show_icons=true&theme=radical" />
 </a>
 
----
-
 <h2>⚒️ Skills</h2>
 
 <p align="left">

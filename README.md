@@ -1,5 +1,10 @@
 # Hello 👋, `I'm Mohammad Faramarzi`, `Front-End Developer❤️`
-## I'm 20 years old and Leaning Computer Engineer at Eslamshahr University. I'm Leaning And Coding React.js Right Now.
+## 👨‍💻 About Me
+- ### 🎓 Student at Eslamshahr University
+- ### 📅 20 Years Old
+- ### 🗓️ Activity About 1.5 Years
+- ### ⏳ Love Learning
+- ### ⌨️ Love Coding
 
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 

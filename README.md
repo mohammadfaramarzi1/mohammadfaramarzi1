@@ -15,7 +15,7 @@
 
 ---
 
-<h2>⚒️Skills</h2>
+<h2>⚒️ Skills</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@
 </p>
 
 
-<h2>🌐Socials </h2>
+<h2>🌐 Socials </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohammadfaramarzi/">

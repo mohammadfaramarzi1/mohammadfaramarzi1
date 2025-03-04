@@ -30,7 +30,7 @@
 <h2>🌐 Socials </h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammadfaramarzi/">
+  <a href="https://www.linkedin.com/in/mohammadfaramarzi1/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://instagram.com/_mofficail1/">
